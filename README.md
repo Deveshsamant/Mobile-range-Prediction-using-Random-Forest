@@ -9,5 +9,9 @@ The repository includes the Python script for the entire process, a saved model,
 
 
 
-UI
-![image](https://github.com/user-attachments/assets/e644c30e-4af2-4a9c-9b45-922d06aa50b5)
+# Data Exploration
+
+
+
+![download](https://github.com/user-attachments/assets/90d0f565-2b34-46e6-8ae8-509e892905ee)
+
