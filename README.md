@@ -20,5 +20,11 @@ The repository includes the Python script for the entire process, a saved model,
 # Visualization of Key Features
 
 ![Figure_2](https://github.com/user-attachments/assets/8de5eb91-37b5-4a55-982f-29769d186e50)
+![Figure_3](https://github.com/user-attachments/assets/4e705fa4-e89b-4a5d-9014-7d7b94de8875)
+![Figure_4](https://github.com/user-attachments/assets/fc18a452-f783-438c-93e8-f426f3b13159)
+![Figure_5](https://github.com/user-attachments/assets/d1113e81-f36c-4d82-9546-6f8577ae301d)
+
+
+
 
 
